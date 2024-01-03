@@ -21,7 +21,7 @@ async function run() {
   const prompt = "describe the provided images";
 
   const imageParts = [
-    fileToGenerativePart("image1.jpg", "image/jpeg"),
+    fileToGenerativePart("Picture1.png", "image/jpeg"),
   
     
 
